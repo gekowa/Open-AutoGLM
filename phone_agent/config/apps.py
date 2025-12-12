@@ -2,9 +2,10 @@
 
 APP_PACKAGES: dict[str, str] = {
     # Social & Messaging
-    "微信": "com.tencent.mm",
+    "微信": "com.tencent.xin",
     "QQ": "com.tencent.mobileqq",
     "微博": "com.sina.weibo",
+    "钉钉": "com.laiwang.DingTalk",
     # E-commerce
     "淘宝": "com.taobao.taobao",
     "京东": "com.jingdong.app.mall",
@@ -181,8 +182,8 @@ APP_PACKAGES: dict[str, str] = {
     "twitter": "com.twitter.android",
     "X": "com.twitter.android",
     "VLC": "org.videolan.vlc",
-    "WeChat": "com.tencent.mm",
-    "wechat": "com.tencent.mm",
+    "WeChat": "com.tencent.xin.ios",
+    "wechat": "com.tencent.xin.ios",
     "Whatsapp": "com.whatsapp",
     "WhatsApp": "com.whatsapp",
 }
